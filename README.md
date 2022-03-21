@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **kotlin projects, ideas**
 
-- 📫 How to reach me : <a href="mailto:aditidande20@gmail.com" target="blank"><img align="center" src="gmail.svg" alt="Gmail" height="30" width="30" /></a>
+- 📫 How to reach me **aditidande20@gmail.com**
 
 
 
