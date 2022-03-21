@@ -4,7 +4,7 @@
 
 - 🔭 I’m working on **App development with Kotlin, Java**
 
-- 🌱 I’m currently learning **Jetpack , Dependency Injection ,MVVM , R**
+- 🌱 I’m currently learning **Jetpack , Dependency Injection ,MVVM , ROOM DB**
 
 - 💬 Ask me about **kotlin projects, ideas**
 
