@@ -1,10 +1,10 @@
 <h1 align="center">Hi I'm Aditi</h1>
-<h3 align="center">A passionate android developer from India</h3>
+<h3 align="center">A passionate App developer from India</h3>
 
 
-- 🔭 I’m working on **App development with Kotlin, Java**
+- 🔭 I’m working on **App development with Kotlin, Java and Flutter**
 
-- 🌱 I’m currently learning **Jetpack , Dependency Injection ,MVVM , ROOM DB**
+- 🌱 I’m currently learning **Jetpack , Dependency Injection ,MVVM , ROOM DB, Flutter**
 
 - 💬 Ask me about **kotlin projects, ideas**
 
